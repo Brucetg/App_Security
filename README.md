@@ -41,7 +41,8 @@
 
 #### Android 模拟器
 
-- [BlueStacks 蓝叠3](http://www.bluestacks.cn/)
+- [BlueStacks 蓝叠中国](http://www.bluestacks.cn/)
+- [蓝叠全球](https://www.bluestacks.com/)（需扶墙，SS/SSR请开全局模式）
 - [海马玩模拟器](http://droid4x.haimawan.com/)
 - [夜神模拟器](https://www.yeshen.com/)
 - [MuMu模拟器](http://mumu.163.com/)
@@ -77,6 +78,7 @@
 - [Fiddler](https://www.techspot.com/downloads/5461-fiddler.html)
 - [Charles](https://www.charlesproxy.com/download/latest-release/)
 - [Burp Suite](https://portswigger.net/burp) 
+- [Wireshark](https://www.wireshark.org/#download)
 
 
 #### Android APP在线漏洞检测平台（不分先后）
