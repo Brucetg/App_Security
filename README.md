@@ -1,6 +1,6 @@
 # App安全学习
 
-### 教程篇：
+## 教程篇：
 
 - [吾爱破解移动安全](https://www.52pojie.cn/thread-408645-1-1.html)
 
@@ -25,11 +25,22 @@
 - [程序员都应该会的抓包工具 Charles](https://github.com/xiyouMc/PythonGuide/wiki/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%83%BD%E5%BA%94%E8%AF%A5%E4%BC%9A%E7%9A%84%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7-Charles)
 - ······
 
+#### 加壳脱壳
+
+- [Android中的Apk的加固(加壳)原理解析和实现](https://blog.csdn.net/jiangwei0910410003/article/details/48415225/)
+- [APK脱壳简介](http://www.bigfog.info/2018/04/15/Apk%E8%84%B1%E5%A3%B3%E7%AE%80%E4%BB%8B/)
+- [Apk脱壳圣战之---脱掉“爱加密”的壳](https://blog.csdn.net/jiangwei0910410003/article/details/51620236)
+- [Apk脱壳圣战之---脱掉“360加固”的壳](https://blog.csdn.net/jiangwei0910410003/article/details/51769447)
+- [Apk脱壳圣战之---如何脱掉“梆梆加固”的保护壳](https://blog.csdn.net/jiangwei0910410003/article/details/54409957)
+- [拿到一个apk包后，怎么判断其是否加壳了？是否做了代码混淆？](https://www.zhihu.com/question/26438444)
+- [常见app加固厂商脱壳方法研究](https://paper.seebug.org/44/)
+- [[翻译]老外挑战360加固--实战分析（很详细）](https://bbs.pediy.com/thread-225561.htm)
 
 
+##
 
+## 工具篇：
 
-### 工具篇：
 
 #### Android 开发工具
 
@@ -47,6 +58,17 @@
 - [夜神模拟器](https://www.yeshen.com/)
 - [MuMu模拟器](http://mumu.163.com/)
 
+
+#### Apk查壳工具
+
+- [ApkDetecter](https://github.com/Andy10101/ApkDetecter)
+- [APK查壳工具PKID](https://xz.aliyun.com/t/2095)
+
+#### Apk脱壳工具
+
+- [dumpDex](https://github.com/WrBug/dumpDex)
+- [dexdump](https://github.com/smartdone/dexdump)
+- [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper)
 
 
 #### App渗透测试框架 
