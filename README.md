@@ -54,7 +54,7 @@
 
 - [BlueStacks 蓝叠中国](http://www.bluestacks.cn/)
 - [蓝叠全球](https://www.bluestacks.com/)（需扶墙，SS/SSR请开全局模式）
-- [海马玩模拟器](http://droid4x.haimawan.com/)
+- [海马玩模拟器](http://droid4x.haimawan.com/)（需先安装VirtualBox）[VirtualBox](https://www.virtualbox.org/)
 - [夜神模拟器](https://www.yeshen.com/)
 - [MuMu模拟器](http://mumu.163.com/)
 
